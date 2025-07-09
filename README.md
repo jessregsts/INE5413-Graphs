@@ -1,1 +1,1 @@
-Meu repositório da disciplina INE5413 - Grafos.
+Repository for my INE5413 - Graphs classes.
